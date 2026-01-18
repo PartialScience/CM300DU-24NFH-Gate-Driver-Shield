@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PowerIGBTs")(type "KiCad")(uri "${KIPRJMOD}/PowerIGBTs.kicad_sym")(options "")(descr ""))
+)
