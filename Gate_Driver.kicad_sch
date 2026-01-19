@@ -1378,210 +1378,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:B32776T1275K000"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "B32776T1275K000"
-				(at 8.89 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "B32776T1275K000"
-				(at 8.89 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/film/mkp_mfp/data_sheet/20/20/db/fc_2009/mkp_b32774_778.pdf"
-				(at 8.89 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "Metallized Polypropylene Capacitors (MKP/MFP), 2.7uF, 1300V DC, 24mm(W) x 15mm(H) x 41.5mm(L)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Metallized Polypropylene Capacitors (MKP/MFP), 2.7uF, 1300V DC, 24mm(W) x 15mm(H) x 41.5mm(L)"
-				(at 8.89 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Height" "15"
-				(at 8.89 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "871-B32776T1275K000"
-				(at 8.89 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B32776T1275K000?qs=BZBei1rCqCAArBWXPfIatA%3D%3D"
-				(at 8.89 -11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "TDK"
-				(at 8.89 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "B32776T1275K000"
-				(at 8.89 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(symbol "B32776T1275K000_0_0"
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "B32776T1275K000_0_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.588 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.588 2.54) (xy 5.588 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 2.54) (xy 7.112 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(junction
 		(at 113.03 48.26)
@@ -1596,22 +1392,10 @@
 		(uuid "17f655a8-2469-423f-ab21-e67a60e8ecad")
 	)
 	(junction
-		(at 144.78 17.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d2a9c94-6ac7-47b9-91e3-b7e16349d8d3")
-	)
-	(junction
 		(at 96.52 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44d47d60-af69-4360-b660-864d228427f8")
-	)
-	(junction
-		(at 113.03 17.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "61dc28f7-beff-4143-834a-dd6d471404fb")
 	)
 	(junction
 		(at 85.09 49.53)
@@ -1626,16 +1410,22 @@
 		(uuid "6ac065f7-fb77-4008-b9da-b882224b20a1")
 	)
 	(junction
+		(at 113.03 17.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "855d349f-24e9-46fe-89a1-a0765c327eb2")
+	)
+	(junction
+		(at 113.03 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e1f8d8a-b34c-4acd-ac46-0b484ada2581")
+	)
+	(junction
 		(at 96.52 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9178798d-d3c6-41a4-bb47-77082586a0f2")
-	)
-	(junction
-		(at 144.78 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a13c5141-0648-4b61-bc81-de520835bbeb")
 	)
 	(junction
 		(at 77.47 49.53)
@@ -1654,12 +1444,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e21eb75b-0467-444a-b3b5-e32d148dd0b7")
-	)
-	(junction
-		(at 113.03 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ffab3a0b-c2a6-4f2d-ac94-1feecc0a6b79")
 	)
 	(wire
 		(pts
@@ -1700,26 +1484,6 @@
 			(type default)
 		)
 		(uuid "0e705196-91b6-4a29-b1f4-953d283430bf")
-	)
-	(wire
-		(pts
-			(xy 144.78 17.78) (xy 144.78 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ef55693-ee60-457f-87b5-c0e954ab5a65")
-	)
-	(wire
-		(pts
-			(xy 144.78 55.88) (xy 144.78 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20c9940c-7a90-457a-a378-d3f34b1450b0")
 	)
 	(wire
 		(pts
@@ -1863,6 +1627,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 78.74) (xy 128.27 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bd62496-7ccc-4406-a95d-dc318cfab6b9")
+	)
+	(wire
+		(pts
 			(xy 69.85 58.42) (xy 74.93 58.42)
 		)
 		(stroke
@@ -1883,13 +1657,13 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 78.74) (xy 154.94 78.74)
+			(xy 113.03 17.78) (xy 128.27 17.78)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "73dc8d3a-99e8-4af0-aa31-7c420dac5d44")
+		(uuid "71f2f4a9-8bbc-4d63-a363-26a1e1ff5f6b")
 	)
 	(wire
 		(pts
@@ -1923,16 +1697,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 17.78) (xy 144.78 17.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9158bb5b-5748-4aeb-aebc-19d49b53425f")
-	)
-	(wire
-		(pts
 			(xy 85.09 49.53) (xy 85.09 52.07)
 		)
 		(stroke
@@ -1950,16 +1714,6 @@
 			(type default)
 		)
 		(uuid "93103332-011d-44ab-8c99-55093302dd0c")
-	)
-	(wire
-		(pts
-			(xy 113.03 78.74) (xy 144.78 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9529dbe5-05e9-4cbd-8b6f-1be648c52fcc")
 	)
 	(wire
 		(pts
@@ -2140,16 +1894,6 @@
 			(type default)
 		)
 		(uuid "f60a4a55-aae5-45a0-9afe-225c9d41cee1")
-	)
-	(wire
-		(pts
-			(xy 144.78 17.78) (xy 154.94 17.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7b8a15c-62e3-478e-8c84-d8b752276503")
 	)
 	(wire
 		(pts
@@ -3108,7 +2852,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 160.02 17.78 0)
+		(at 133.35 17.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3117,7 +2861,7 @@
 		(fields_autoplaced yes)
 		(uuid "a61e9f65-62dc-482a-bf29-da0f2347e905")
 		(property "Reference" "C1"
-			(at 161.29 16.5099 0)
+			(at 134.62 16.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3126,7 +2870,7 @@
 			)
 		)
 		(property "Value" "C1"
-			(at 161.29 19.0499 0)
+			(at 134.62 19.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3135,7 +2879,7 @@
 			)
 		)
 		(property "Footprint" "Library:Custom CM300DU Terminal Connector"
-			(at 160.02 17.78 0)
+			(at 133.35 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3144,7 +2888,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 17.78 0)
+			(at 133.35 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3153,7 +2897,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 160.02 17.78 0)
+			(at 133.35 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3656,138 +3400,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:B32776T1275K000")
-		(at 144.78 43.18 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e88642ef-0b7b-475c-af22-c3eb936c12b2")
-		(property "Reference" "C2"
-			(at 148.59 48.2599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "B32776T1275K000"
-			(at 148.59 50.7999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "B32776T1275K000"
-			(at 146.05 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/film/mkp_mfp/data_sheet/20/20/db/fc_2009/mkp_b32774_778.pdf"
-			(at 143.51 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Metallized Polypropylene Capacitors (MKP/MFP), 2.7uF, 1300V DC, 24mm(W) x 15mm(H) x 41.5mm(L)"
-			(at 144.78 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Metallized Polypropylene Capacitors (MKP/MFP), 2.7uF, 1300V DC, 24mm(W) x 15mm(H) x 41.5mm(L)"
-			(at 140.97 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "15"
-			(at 138.43 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "871-B32776T1275K000"
-			(at 135.89 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B32776T1275K000?qs=BZBei1rCqCAArBWXPfIatA%3D%3D"
-			(at 133.35 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "TDK"
-			(at 130.81 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "B32776T1275K000"
-			(at 128.27 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2700ff36-54a4-44ad-9e61-e17480ca8fe1")
-		)
-		(pin "1"
-			(uuid "047028f3-ec1e-4420-888d-3c61d75441a0")
-		)
-		(instances
-			(project ""
-				(path "/dbc28b68-3a1b-436d-82f3-9b167f62e8e3"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N5819")
 		(at 81.28 33.02 0)
 		(unit 1)
@@ -3925,7 +3537,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 160.02 78.74 0)
+		(at 133.35 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3934,7 +3546,7 @@
 		(fields_autoplaced yes)
 		(uuid "f72cdb77-95c5-47be-bcc0-2912f4f4622b")
 		(property "Reference" "E2"
-			(at 161.29 77.4699 0)
+			(at 134.62 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3943,7 +3555,7 @@
 			)
 		)
 		(property "Value" "E2"
-			(at 161.29 80.0099 0)
+			(at 134.62 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3952,7 +3564,7 @@
 			)
 		)
 		(property "Footprint" "Library:Custom CM300DU Terminal Connector"
-			(at 160.02 78.74 0)
+			(at 133.35 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3961,7 +3573,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 78.74 0)
+			(at 133.35 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3970,7 +3582,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 160.02 78.74 0)
+			(at 133.35 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
