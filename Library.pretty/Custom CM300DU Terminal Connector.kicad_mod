@@ -68,8 +68,8 @@
 	)
 	(pad "1" thru_hole roundrect
 		(at -2.8 0)
-		(size 5 2.5)
-		(drill oval 3.5 1.66)
+		(size 5 3.5)
+		(drill oval 3.5 2.19)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
@@ -78,8 +78,8 @@
 	)
 	(pad "1" thru_hole roundrect
 		(at 2.8 0)
-		(size 5 2.5)
-		(drill oval 3.5 1.66)
+		(size 5 3.5)
+		(drill oval 3.5 2.19)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
@@ -87,4 +87,15 @@
 		(uuid "4a8f96cc-2b4a-4f9c-a7fc-e93364f99d0e")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Custom-Connector.stp"
+		(offset
+			(xyz -24.38 5.05 -24)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
 )

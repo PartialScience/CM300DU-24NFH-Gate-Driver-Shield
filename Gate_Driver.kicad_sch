@@ -1589,104 +1589,104 @@
 		)
 	)
 	(junction
-		(at 113.03 48.26)
+		(at 160.02 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "14128843-e303-4f95-9539-a4f0725e1147")
 	)
 	(junction
-		(at 96.52 30.48)
+		(at 143.51 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17f655a8-2469-423f-ab21-e67a60e8ecad")
 	)
 	(junction
-		(at 96.52 52.07)
+		(at 143.51 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30371741-fa93-4686-9f09-381f9387c968")
 	)
 	(junction
-		(at 85.09 26.67)
+		(at 132.08 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b11eb17-b681-4709-8f4b-760909305e50")
 	)
 	(junction
-		(at 96.52 48.26)
+		(at 143.51 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44d47d60-af69-4360-b660-864d228427f8")
 	)
 	(junction
-		(at 85.09 53.34)
+		(at 132.08 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66ef8074-d943-4426-ab51-12354f3e3e6f")
 	)
 	(junction
-		(at 77.47 30.48)
+		(at 124.46 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6ac065f7-fb77-4008-b9da-b882224b20a1")
 	)
 	(junction
-		(at 77.47 57.15)
+		(at 124.46 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72f5a2b0-b69d-4d05-80c5-e7414bcfe48f")
 	)
 	(junction
-		(at 113.03 17.78)
+		(at 160.02 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "855d349f-24e9-46fe-89a1-a0765c327eb2")
 	)
 	(junction
-		(at 74.93 30.48)
+		(at 121.92 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a19e132-d954-483b-a51a-6cedeba64585")
 	)
 	(junction
-		(at 113.03 78.74)
+		(at 160.02 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e1f8d8a-b34c-4acd-ac46-0b484ada2581")
 	)
 	(junction
-		(at 77.47 53.34)
+		(at 124.46 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a236a966-329e-40a9-ab09-57dcc066755e")
 	)
 	(junction
-		(at 74.93 53.34)
+		(at 121.92 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a8334322-6fb5-4a95-9e6c-7a5f2e9dca31")
 	)
 	(junction
-		(at 96.52 67.31)
+		(at 143.51 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b495a9f9-e0c3-4fc3-a022-ba06b356aae2")
 	)
 	(junction
-		(at 85.09 30.48)
+		(at 132.08 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e21eb75b-0467-444a-b3b5-e32d148dd0b7")
 	)
 	(junction
-		(at 85.09 57.15)
+		(at 132.08 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f39e6d72-c573-4c97-bd5a-f84193a29278")
 	)
 	(wire
 		(pts
-			(xy 74.93 40.64) (xy 69.85 40.64)
+			(xy 121.92 91.44) (xy 116.84 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1696,7 +1696,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 44.45) (xy 87.63 48.26)
+			(xy 134.62 95.25) (xy 134.62 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1706,7 +1706,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 59.69) (xy 72.39 59.69)
+			(xy 116.84 110.49) (xy 119.38 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1716,7 +1716,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 57.15) (xy 85.09 59.69)
+			(xy 132.08 107.95) (xy 132.08 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1726,7 +1726,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 30.48) (xy 99.06 33.02)
+			(xy 146.05 81.28) (xy 146.05 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1736,7 +1736,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 49.53) (xy 85.09 53.34)
+			(xy 132.08 100.33) (xy 132.08 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1746,7 +1746,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 78.74) (xy 109.22 67.31)
+			(xy 156.21 129.54) (xy 156.21 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1756,7 +1756,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 30.48) (xy 77.47 30.48)
+			(xy 121.92 81.28) (xy 124.46 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1766,7 +1766,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 27.94) (xy 106.68 17.78)
+			(xy 153.67 78.74) (xy 153.67 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1776,7 +1776,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 67.31) (xy 99.06 67.31)
+			(xy 143.51 118.11) (xy 146.05 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1786,7 +1786,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 57.15) (xy 69.85 58.42)
+			(xy 116.84 107.95) (xy 116.84 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1796,7 +1796,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 49.53) (xy 99.06 49.53)
+			(xy 143.51 100.33) (xy 146.05 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1806,7 +1806,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 44.45) (xy 87.63 44.45)
+			(xy 121.92 95.25) (xy 134.62 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1816,7 +1816,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 26.67) (xy 77.47 30.48)
+			(xy 124.46 77.47) (xy 124.46 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1826,7 +1826,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 33.02) (xy 96.52 30.48)
+			(xy 143.51 83.82) (xy 143.51 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1836,7 +1836,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 38.1) (xy 74.93 30.48)
+			(xy 121.92 88.9) (xy 121.92 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1846,7 +1846,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 49.53) (xy 96.52 52.07)
+			(xy 143.51 100.33) (xy 143.51 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1856,7 +1856,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 25.4) (xy 74.93 30.48)
+			(xy 121.92 76.2) (xy 121.92 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1866,7 +1866,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 64.77) (xy 96.52 67.31)
+			(xy 143.51 115.57) (xy 143.51 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1876,7 +1876,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 45.72) (xy 96.52 48.26)
+			(xy 143.51 96.52) (xy 143.51 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1886,7 +1886,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 78.74) (xy 128.27 78.74)
+			(xy 160.02 129.54) (xy 175.26 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1896,7 +1896,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 58.42) (xy 74.93 58.42)
+			(xy 116.84 109.22) (xy 121.92 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1906,7 +1906,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 57.15) (xy 72.39 59.69)
+			(xy 119.38 107.95) (xy 119.38 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1916,7 +1916,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 17.78) (xy 128.27 17.78)
+			(xy 160.02 68.58) (xy 175.26 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1926,7 +1926,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 17.78) (xy 113.03 17.78)
+			(xy 153.67 68.58) (xy 160.02 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1936,7 +1936,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 48.26) (xy 127 48.26)
+			(xy 160.02 99.06) (xy 173.99 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1946,7 +1946,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 48.26) (xy 99.06 48.26)
+			(xy 143.51 99.06) (xy 146.05 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1956,7 +1956,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 53.34) (xy 85.09 57.15)
+			(xy 132.08 104.14) (xy 132.08 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1966,7 +1966,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 53.34) (xy 77.47 53.34)
+			(xy 121.92 104.14) (xy 124.46 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1976,7 +1976,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 30.48) (xy 85.09 33.02)
+			(xy 132.08 81.28) (xy 132.08 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1986,7 +1986,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 58.42) (xy 74.93 67.31)
+			(xy 121.92 109.22) (xy 121.92 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1996,7 +1996,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 30.48) (xy 99.06 30.48)
+			(xy 143.51 81.28) (xy 146.05 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2006,7 +2006,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 57.15) (xy 74.93 53.34)
+			(xy 121.92 107.95) (xy 121.92 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2016,7 +2016,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 38.1) (xy 74.93 38.1)
+			(xy 116.84 88.9) (xy 121.92 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2026,7 +2026,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 48.26) (xy 96.52 48.26)
+			(xy 134.62 99.06) (xy 143.51 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2036,7 +2036,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 48.26) (xy 113.03 48.26)
+			(xy 156.21 99.06) (xy 160.02 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2046,7 +2046,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 26.67) (xy 85.09 30.48)
+			(xy 132.08 77.47) (xy 132.08 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2056,7 +2056,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 21.59) (xy 85.09 21.59)
+			(xy 125.73 72.39) (xy 132.08 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2066,7 +2066,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 44.45) (xy 74.93 40.64)
+			(xy 121.92 95.25) (xy 121.92 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2076,7 +2076,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 21.59) (xy 85.09 26.67)
+			(xy 132.08 72.39) (xy 132.08 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2086,7 +2086,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 53.34) (xy 96.52 52.07)
+			(xy 143.51 104.14) (xy 143.51 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2096,7 +2096,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 49.53) (xy 99.06 52.07)
+			(xy 146.05 100.33) (xy 146.05 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2106,7 +2106,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 67.31) (xy 96.52 67.31)
+			(xy 121.92 118.11) (xy 143.51 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +2116,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 53.34) (xy 96.52 53.34)
+			(xy 132.08 104.14) (xy 143.51 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2126,7 +2126,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 30.48) (xy 96.52 30.48)
+			(xy 132.08 81.28) (xy 143.51 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2136,7 +2136,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 30.48) (xy 77.47 33.02)
+			(xy 124.46 81.28) (xy 124.46 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2146,7 +2146,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 57.15) (xy 72.39 57.15)
+			(xy 121.92 107.95) (xy 119.38 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2156,7 +2156,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 57.15) (xy 77.47 59.69)
+			(xy 124.46 107.95) (xy 124.46 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2166,7 +2166,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 49.53) (xy 85.09 49.53)
+			(xy 125.73 100.33) (xy 132.08 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2176,7 +2176,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 53.34) (xy 77.47 57.15)
+			(xy 124.46 104.14) (xy 124.46 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2186,7 +2186,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 78.74) (xy 109.22 78.74)
+			(xy 160.02 129.54) (xy 156.21 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2196,7 +2196,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 74.93 90)
+		(at 160.02 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2205,7 +2205,7 @@
 		(fields_autoplaced yes)
 		(uuid "004777a3-9666-486e-9bc4-920e80490407")
 		(property "Reference" "D11"
-			(at 115.57 73.6599 90)
+			(at 162.56 124.4599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2213,8 +2213,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 76.1999 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 126.9999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2223,7 +2223,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 74.93 0)
+			(at 165.1 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2232,7 +2232,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 74.93 0)
+			(at 160.02 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2241,7 +2241,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 74.93 0)
+			(at 160.02 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2267,7 +2276,7 @@
 	(symbol
 		(lib_name "3362X-1-100LF_1")
 		(lib_id "SamacSys_Parts:3362X-1-100LF")
-		(at 74.93 49.53 270)
+		(at 121.92 100.33 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2276,7 +2285,7 @@
 		(dnp no)
 		(uuid "2a0c889c-f26c-45fc-99a6-2f88a9ba76d9")
 		(property "Reference" "VR3"
-			(at 70.358 49.784 90)
+			(at 117.348 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2284,7 +2293,7 @@
 			)
 		)
 		(property "Value" "3362X-1-100LF"
-			(at 74.676 55.372 90)
+			(at 121.666 106.172 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2293,7 +2302,7 @@
 			)
 		)
 		(property "Footprint" "3362X1100LF"
-			(at 110.236 76.962 0)
+			(at 157.226 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2303,7 +2312,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ph/en/products/detail/bourns-inc/3362X-1-100LF/2536793?msockid=3bdc366bbe0663d83c1223c0bf3662a6"
-			(at 107.696 76.962 0)
+			(at 154.686 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2313,7 +2322,7 @@
 			)
 		)
 		(property "Description" "Trimmer Resistors - Through Hole 1/4IN SQ 10 OHMS 10% 0.5WATTS"
-			(at 90.17 42.418 0)
+			(at 137.16 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2322,7 +2331,7 @@
 			)
 		)
 		(property "Description_1" "Trimmer Resistors - Through Hole 1/4IN SQ 10 OHMS 10% 0.5WATTS"
-			(at 105.156 76.962 0)
+			(at 152.146 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2332,7 +2341,7 @@
 			)
 		)
 		(property "Height" "7.24"
-			(at 102.616 76.962 0)
+			(at 149.606 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2342,7 +2351,7 @@
 			)
 		)
 		(property "Mouser Part Number" "652-3362X-1-100LF"
-			(at 100.076 76.962 0)
+			(at 147.066 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2352,7 +2361,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/3362X-1-100LF?qs=%2F8GVLIi9f5euvappWf8J7g%3D%3D"
-			(at 97.536 76.962 0)
+			(at 144.526 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2362,7 +2371,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Bourns"
-			(at 94.996 76.962 0)
+			(at 141.986 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2372,7 +2381,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "3362X-1-100LF"
-			(at 92.456 76.962 0)
+			(at 139.446 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2401,7 +2410,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 59.69 90)
+		(at 160.02 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2410,7 +2419,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f62b364-5313-4811-aff1-8e1189eb6516")
 		(property "Reference" "D9"
-			(at 115.57 58.4199 90)
+			(at 162.56 109.2199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2418,8 +2427,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 60.9599 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 111.7599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2428,7 +2437,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 59.69 0)
+			(at 165.1 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2437,7 +2446,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 59.69 0)
+			(at 160.02 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2446,7 +2455,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 59.69 0)
+			(at 160.02 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2471,7 +2489,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Zener")
-		(at 96.52 58.42 270)
+		(at 143.51 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2480,7 +2498,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ed4d242-4b24-4aa8-a0c3-e546c655f03f")
 		(property "Reference" "D12"
-			(at 99.06 57.1499 90)
+			(at 146.05 107.9499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2489,7 +2507,7 @@
 			)
 		)
 		(property "Value" "P6KE30CA"
-			(at 99.06 59.6899 90)
+			(at 146.05 110.4899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2498,7 +2516,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 96.52 58.42 0)
+			(at 143.51 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2507,7 +2525,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 58.42 0)
+			(at 143.51 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2516,7 +2534,7 @@
 			)
 		)
 		(property "Description" "TVS Diode"
-			(at 96.52 58.42 0)
+			(at 143.51 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2524,8 +2542,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Number" "821-P6KE30CA "
-			(at 96.52 58.42 90)
+		(property "Mouser Part Number" "821-P6KE30CA "
+			(at 143.51 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2550,7 +2568,7 @@
 	)
 	(symbol
 		(lib_id "PowerIGBTs:CM300DU-24NFH")
-		(at 106.68 46.99 0)
+		(at 153.67 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2558,7 +2576,7 @@
 		(dnp no)
 		(uuid "45606398-f83c-4db6-9e5b-5435ac7bd53e")
 		(property "Reference" "Q1"
-			(at 103.632 42.926 0)
+			(at 150.622 93.726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2567,7 +2585,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 109.22 49.3268 0)
+			(at 156.21 100.1268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2576,7 +2594,7 @@
 			)
 		)
 		(property "Footprint" "Library:CM300DU-24NFH"
-			(at 106.68 46.99 0)
+			(at 153.67 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2585,7 +2603,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 46.99 0)
+			(at 153.67 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2594,7 +2612,16 @@
 			)
 		)
 		(property "Description" ""
-			(at 106.68 46.99 0)
+			(at 153.67 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "917-CM300DU-24NFH "
+			(at 153.67 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2634,16 +2661,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 132.08 48.26 0)
+		(at 179.07 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45c2008e-bb02-421a-a31a-1d1177096ae7")
 		(property "Reference" "C2E1"
-			(at 133.35 46.9899 0)
+			(at 180.34 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2652,7 +2679,7 @@
 			)
 		)
 		(property "Value" "C2E1"
-			(at 133.35 49.5299 0)
+			(at 180.34 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2661,7 +2688,7 @@
 			)
 		)
 		(property "Footprint" "Library:Custom CM300DU Terminal Connector"
-			(at 132.08 48.26 0)
+			(at 179.07 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2670,7 +2697,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 48.26 0)
+			(at 179.07 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2679,7 +2706,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 132.08 48.26 0)
+			(at 179.07 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2701,7 +2728,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 52.07 90)
+		(at 160.02 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2710,7 +2737,7 @@
 		(fields_autoplaced yes)
 		(uuid "50eeac3a-6dd2-4af3-9a66-50abd6101277")
 		(property "Reference" "D8"
-			(at 115.57 50.7999 90)
+			(at 162.56 101.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2718,8 +2745,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 53.3399 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 104.1399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2728,7 +2755,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 52.07 0)
+			(at 165.1 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2737,7 +2764,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 52.07 0)
+			(at 160.02 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2746,7 +2773,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 52.07 0)
+			(at 160.02 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2771,7 +2807,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Zener")
-		(at 96.52 39.37 270)
+		(at 143.51 90.17 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2780,7 +2816,7 @@
 		(fields_autoplaced yes)
 		(uuid "5dda3ebd-e94a-4da9-9698-7c76ebb6f978")
 		(property "Reference" "D2"
-			(at 99.06 38.0999 90)
+			(at 146.05 88.8999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2789,7 +2825,7 @@
 			)
 		)
 		(property "Value" "P6KE30CA"
-			(at 99.06 40.6399 90)
+			(at 146.05 91.4399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2798,7 +2834,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 96.52 39.37 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2807,7 +2843,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 39.37 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2816,7 +2852,7 @@
 			)
 		)
 		(property "Description" "TVS Diode"
-			(at 96.52 39.37 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2824,8 +2860,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Number" "821-P6KE30CA "
-			(at 96.52 39.37 90)
+		(property "Mouser Part Number" "821-P6KE30CA "
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2850,15 +2886,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 81.28 26.67 90)
+		(at 128.27 77.47 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "607ceace-af76-4a4d-8dc3-3acfff750eac")
 		(property "Reference" "R3"
-			(at 81.28 26.67 90)
+			(at 128.27 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2866,7 +2902,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 81.28 26.67 90)
+			(at 128.27 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2875,7 +2911,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 81.28 28.448 90)
+			(at 128.27 79.248 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2884,7 +2920,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 26.67 0)
+			(at 128.27 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,7 +2929,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 81.28 26.67 0)
+			(at 128.27 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2918,7 +2954,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 36.83 90)
+		(at 160.02 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2927,7 +2963,7 @@
 		(fields_autoplaced yes)
 		(uuid "62923f95-55f7-4f18-a28d-ac9ae873a806")
 		(property "Reference" "D5"
-			(at 115.57 35.5599 90)
+			(at 162.56 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2935,8 +2971,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 38.0999 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 88.8999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2945,7 +2981,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 36.83 0)
+			(at 165.1 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2954,7 +2990,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 36.83 0)
+			(at 160.02 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2963,7 +2999,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 36.83 0)
+			(at 160.02 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2989,7 +3034,7 @@
 	(symbol
 		(lib_name "3362X-1-100LF_1")
 		(lib_id "SamacSys_Parts:3362X-1-100LF")
-		(at 74.93 21.59 270)
+		(at 121.92 72.39 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2997,7 +3042,7 @@
 		(dnp no)
 		(uuid "6c4d76f9-ab64-400e-bb4d-9a02968a998c")
 		(property "Reference" "VR2"
-			(at 70.358 21.336 90)
+			(at 117.348 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3005,7 +3050,7 @@
 			)
 		)
 		(property "Value" "3362X-1-100LF"
-			(at 74.676 15.748 90)
+			(at 121.666 66.548 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,7 +3059,7 @@
 			)
 		)
 		(property "Footprint" "3362X1100LF"
-			(at 110.236 -5.842 0)
+			(at 157.226 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3024,7 +3069,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ph/en/products/detail/bourns-inc/3362X-1-100LF/2536793?msockid=3bdc366bbe0663d83c1223c0bf3662a6"
-			(at 107.696 -5.842 0)
+			(at 154.686 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3034,7 +3079,7 @@
 			)
 		)
 		(property "Description" "Trimmer Resistors - Through Hole 1/4IN SQ 10 OHMS 10% 0.5WATTS"
-			(at 90.17 28.702 0)
+			(at 137.16 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3043,7 +3088,7 @@
 			)
 		)
 		(property "Description_1" "Trimmer Resistors - Through Hole 1/4IN SQ 10 OHMS 10% 0.5WATTS"
-			(at 105.156 -5.842 0)
+			(at 152.146 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3053,7 +3098,7 @@
 			)
 		)
 		(property "Height" "7.24"
-			(at 102.616 -5.842 0)
+			(at 149.606 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3063,7 +3108,7 @@
 			)
 		)
 		(property "Mouser Part Number" "652-3362X-1-100LF"
-			(at 100.076 -5.842 0)
+			(at 147.066 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3073,7 +3118,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/3362X-1-100LF?qs=%2F8GVLIi9f5euvappWf8J7g%3D%3D"
-			(at 97.536 -5.842 0)
+			(at 144.526 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3083,7 +3128,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Bourns"
-			(at 94.996 -5.842 0)
+			(at 141.986 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3093,7 +3138,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "3362X-1-100LF"
-			(at 92.456 -5.842 0)
+			(at 139.446 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3122,7 +3167,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N5819")
-		(at 81.28 59.69 0)
+		(at 128.27 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3130,7 +3175,7 @@
 		(dnp no)
 		(uuid "787bc408-3237-43cb-b43d-c836bb2ee158")
 		(property "Reference" "D6"
-			(at 81.28 61.722 0)
+			(at 128.27 112.522 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3138,7 +3183,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 82.804 61.976 0)
+			(at 129.794 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3147,7 +3192,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 81.28 64.135 0)
+			(at 128.27 114.935 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3156,7 +3201,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf"
-			(at 81.28 59.69 0)
+			(at 128.27 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3165,7 +3210,16 @@
 			)
 		)
 		(property "Description" "40V 1A Schottky Barrier Rectifier Diode, DO-41"
-			(at 81.28 59.69 0)
+			(at 128.27 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "511-1N5819"
+			(at 128.27 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3190,7 +3244,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 29.21 90)
+		(at 160.02 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3199,7 +3253,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ac8a025-d372-48bf-9093-63e54ef1e1e9")
 		(property "Reference" "D4"
-			(at 115.57 27.9399 90)
+			(at 162.56 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3207,8 +3261,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 30.4799 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3217,7 +3271,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 29.21 0)
+			(at 165.1 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3226,7 +3280,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 29.21 0)
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3235,7 +3289,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 29.21 0)
+			(at 160.02 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3260,7 +3323,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 67.31 90)
+		(at 160.02 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3269,7 +3332,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d61be38-9e82-4a4b-830c-96f020ef8096")
 		(property "Reference" "D10"
-			(at 115.57 66.0399 90)
+			(at 162.56 116.8399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3277,8 +3340,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 68.5799 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3287,7 +3350,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 67.31 0)
+			(at 165.1 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3296,7 +3359,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 67.31 0)
+			(at 160.02 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3305,7 +3368,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 67.31 0)
+			(at 160.02 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3330,7 +3402,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 44.45 90)
+		(at 160.02 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3339,7 +3411,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0dac707-853f-468d-9d79-6e6c688bf931")
 		(property "Reference" "D7"
-			(at 115.57 43.1799 90)
+			(at 162.56 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3347,8 +3419,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 45.7199 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3357,7 +3429,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 44.45 0)
+			(at 165.1 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3366,7 +3438,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 44.45 0)
+			(at 160.02 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3375,7 +3447,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 44.45 0)
+			(at 160.02 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3400,16 +3481,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 133.35 17.78 0)
+		(at 180.34 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a61e9f65-62dc-482a-bf29-da0f2347e905")
 		(property "Reference" "C1"
-			(at 134.62 16.5099 0)
+			(at 181.61 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3418,7 +3499,7 @@
 			)
 		)
 		(property "Value" "C1"
-			(at 134.62 19.0499 0)
+			(at 181.61 69.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3427,7 +3508,7 @@
 			)
 		)
 		(property "Footprint" "Library:Custom CM300DU Terminal Connector"
-			(at 133.35 17.78 0)
+			(at 180.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3436,7 +3517,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 17.78 0)
+			(at 180.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3445,7 +3526,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 133.35 17.78 0)
+			(at 180.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3467,7 +3548,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:171857-0002")
-		(at 69.85 40.64 180)
+		(at 116.84 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3476,7 +3557,7 @@
 		(fields_autoplaced yes)
 		(uuid "b50fa599-0553-468c-b5ca-337b0ed24f0a")
 		(property "Reference" "J1"
-			(at 59.69 30.48 0)
+			(at 106.68 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3484,7 +3565,7 @@
 			)
 		)
 		(property "Value" "171857-0002"
-			(at 59.69 33.02 0)
+			(at 106.68 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3492,7 +3573,7 @@
 			)
 		)
 		(property "Footprint" "171857-0002"
-			(at 53.34 43.18 0)
+			(at 100.33 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3502,7 +3583,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.molex.com/webdocs/datasheets/pdf/en-us//1718570002_PCB_HEADERS.pdf"
-			(at 53.34 40.64 0)
+			(at 100.33 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3512,7 +3593,7 @@
 			)
 		)
 		(property "Description" "KK 254 RPC Pin Header right angle 2way Molex 171857 Series, 2.54mm Pitch 2 Way 1 Row Right Angle PCB Header, Solder Termination, 4A"
-			(at 69.85 40.64 0)
+			(at 116.84 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3521,7 +3602,7 @@
 			)
 		)
 		(property "Description_1" "KK 254 RPC Pin Header right angle 2way Molex 171857 Series, 2.54mm Pitch 2 Way 1 Row Right Angle PCB Header, Solder Termination, 4A"
-			(at 53.34 38.1 0)
+			(at 100.33 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3531,7 +3612,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 53.34 35.56 0)
+			(at 100.33 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3540,8 +3621,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
-			(at 53.34 33.02 0)
+		(property "Mouser Part Number" "538-171857-0002"
+			(at 100.33 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3551,7 +3632,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/171857-0002?qs=vOeJqewp7jDZ%2FeRg0MxvZQ%3D%3D"
-			(at 53.34 30.48 0)
+			(at 100.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3561,7 +3642,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 53.34 27.94 0)
+			(at 100.33 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3571,21 +3652,13 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "171857-0002"
-			(at 53.34 25.4 0)
+			(at 100.33 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 				(hide yes)
-			)
-		)
-		(property "Mouser Number" "538-171857-0002"
-			(at 69.85 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -3605,15 +3678,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 81.28 57.15 90)
+		(at 128.27 107.95 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "c01ded68-c3fb-4f4b-8e90-78e4a9d0ccdf")
 		(property "Reference" "R5"
-			(at 81.28 57.15 90)
+			(at 128.27 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3621,7 +3694,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 81.28 57.15 90)
+			(at 128.27 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3630,7 +3703,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 81.28 58.928 90)
+			(at 128.27 109.728 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3639,7 +3712,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 57.15 0)
+			(at 128.27 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3648,7 +3721,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 81.28 57.15 0)
+			(at 128.27 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3673,7 +3746,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5KExxCA")
-		(at 113.03 21.59 90)
+		(at 160.02 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3682,7 +3755,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6dfb508-47a5-4836-b3b0-b4539cb086ef")
 		(property "Reference" "D3"
-			(at 115.57 20.3199 90)
+			(at 162.56 71.1199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3690,8 +3763,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5KExxCA"
-			(at 115.57 22.8599 90)
+		(property "Value" "1.5KE220CA"
+			(at 162.56 73.6599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3700,7 +3773,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AE_P15.24mm_Horizontal"
-			(at 118.11 21.59 0)
+			(at 165.1 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3709,7 +3782,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88301/15ke.pdf"
-			(at 113.03 21.59 0)
+			(at 160.02 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3718,7 +3791,16 @@
 			)
 		)
 		(property "Description" "1500W bidirectional TVS diode, DO-201AE"
-			(at 113.03 21.59 0)
+			(at 160.02 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "833-1.5KE220CA-TP "
+			(at 160.02 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3743,15 +3825,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 81.28 30.48 90)
+		(at 128.27 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "d737b86e-0bad-4796-85f9-ce3c1b94c81c")
 		(property "Reference" "R2"
-			(at 81.28 30.48 90)
+			(at 128.27 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3759,7 +3841,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 81.28 30.48 90)
+			(at 128.27 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3768,7 +3850,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 81.28 32.258 90)
+			(at 128.27 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3777,7 +3859,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 30.48 0)
+			(at 128.27 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3786,7 +3868,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 81.28 30.48 0)
+			(at 128.27 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3811,7 +3893,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:171857-0002")
-		(at 69.85 59.69 180)
+		(at 116.84 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3820,7 +3902,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7b94b34-b15c-4f42-bd0b-ed4cc4150f0d")
 		(property "Reference" "J2"
-			(at 59.69 49.53 0)
+			(at 106.68 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3828,7 +3910,7 @@
 			)
 		)
 		(property "Value" "171857-0002"
-			(at 59.69 52.07 0)
+			(at 106.68 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3836,7 +3918,7 @@
 			)
 		)
 		(property "Footprint" "171857-0002"
-			(at 53.34 62.23 0)
+			(at 100.33 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3846,7 +3928,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.molex.com/webdocs/datasheets/pdf/en-us//1718570002_PCB_HEADERS.pdf"
-			(at 53.34 59.69 0)
+			(at 100.33 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,7 +3938,7 @@
 			)
 		)
 		(property "Description" "KK 254 RPC Pin Header right angle 2way Molex 171857 Series, 2.54mm Pitch 2 Way 1 Row Right Angle PCB Header, Solder Termination, 4A"
-			(at 69.85 59.69 0)
+			(at 116.84 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3865,7 +3947,7 @@
 			)
 		)
 		(property "Description_1" "KK 254 RPC Pin Header right angle 2way Molex 171857 Series, 2.54mm Pitch 2 Way 1 Row Right Angle PCB Header, Solder Termination, 4A"
-			(at 53.34 57.15 0)
+			(at 100.33 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3875,7 +3957,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 53.34 54.61 0)
+			(at 100.33 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3884,8 +3966,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
-			(at 53.34 52.07 0)
+		(property "Mouser Part Number" "538-171857-0002"
+			(at 100.33 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3895,7 +3977,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/171857-0002?qs=vOeJqewp7jDZ%2FeRg0MxvZQ%3D%3D"
-			(at 53.34 49.53 0)
+			(at 100.33 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3905,7 +3987,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 53.34 46.99 0)
+			(at 100.33 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3915,21 +3997,13 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "171857-0002"
-			(at 53.34 44.45 0)
+			(at 100.33 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 				(hide yes)
-			)
-		)
-		(property "Mouser Number" "538-171857-0002"
-			(at 69.85 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -3949,7 +4023,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N5819")
-		(at 81.28 33.02 0)
+		(at 128.27 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3957,7 +4031,7 @@
 		(dnp no)
 		(uuid "e9156345-0b70-4175-9252-cf4c1fe27f00")
 		(property "Reference" "D1"
-			(at 81.28 35.052 0)
+			(at 128.27 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3965,7 +4039,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 82.804 35.306 0)
+			(at 129.794 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3974,7 +4048,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 81.28 37.465 0)
+			(at 128.27 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3983,7 +4057,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf"
-			(at 81.28 33.02 0)
+			(at 128.27 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3992,7 +4066,16 @@
 			)
 		)
 		(property "Description" "40V 1A Schottky Barrier Rectifier Diode, DO-41"
-			(at 81.28 33.02 0)
+			(at 128.27 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "511-1N5819"
+			(at 128.27 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4017,15 +4100,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 81.28 53.34 90)
+		(at 128.27 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "f2a72fd2-a847-4091-a234-70985f96dbff")
 		(property "Reference" "R4"
-			(at 81.28 53.34 90)
+			(at 128.27 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4033,7 +4116,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 81.28 53.34 90)
+			(at 128.27 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4042,7 +4125,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 81.28 55.118 90)
+			(at 128.27 105.918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4051,7 +4134,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 53.34 0)
+			(at 128.27 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4143,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 81.28 53.34 0)
+			(at 128.27 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4085,16 +4168,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 133.35 78.74 0)
+		(at 180.34 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f72cdb77-95c5-47be-bcc0-2912f4f4622b")
 		(property "Reference" "E2"
-			(at 134.62 77.4699 0)
+			(at 181.61 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4103,7 +4186,7 @@
 			)
 		)
 		(property "Value" "E2"
-			(at 134.62 80.0099 0)
+			(at 181.61 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4112,7 +4195,7 @@
 			)
 		)
 		(property "Footprint" "Library:Custom CM300DU Terminal Connector"
-			(at 133.35 78.74 0)
+			(at 180.34 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4121,7 +4204,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 78.74 0)
+			(at 180.34 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4130,7 +4213,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 133.35 78.74 0)
+			(at 180.34 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)

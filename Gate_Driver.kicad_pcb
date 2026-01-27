@@ -1862,7 +1862,7 @@
 		(uuid "4455a777-8c2f-4a4a-88a6-fb17054f6f21")
 		(at 138.578898 97.79)
 		(property "Reference" "C1"
-			(at 0 2.54 0)
+			(at 0 2.794 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "f96ffa24-9711-4f89-858e-737fe0ed34fd")
@@ -1917,7 +1917,7 @@
 		(sheetfile "Gate_Driver.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.54 0)
+			(at 0 2.794 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "ae7e463e-3433-4ea1-8bb0-2e2bd9f0380d")
@@ -1930,8 +1930,8 @@
 		)
 		(pad "1" thru_hole roundrect
 			(at -2.8 0)
-			(size 5 2.5)
-			(drill oval 3.5 1.66)
+			(size 5 3.5)
+			(drill oval 3.5 2.19)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15)
@@ -1939,12 +1939,12 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "02d9164f-515d-4dc2-a776-7161d95ecdb2")
+			(uuid "58b9f6d1-8fc6-43bc-9194-dd9dc780b394")
 		)
 		(pad "1" thru_hole roundrect
 			(at 2.8 0)
-			(size 5 2.5)
-			(drill oval 3.5 1.66)
+			(size 5 3.5)
+			(drill oval 3.5 2.19)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15)
@@ -1955,6 +1955,17 @@
 			(uuid "58b9f6d1-8fc6-43bc-9194-dd9dc780b394")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Custom-Connector.stp"
+			(offset
+				(xyz -24.38 5.05 -24)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "LOGO"
 		(layer "F.Cu")
@@ -3539,7 +3550,7 @@
 		(uuid "4f803a80-d3d3-4b3d-b1b0-1f9a97308472")
 		(at 162.95 97.79)
 		(property "Reference" "E2"
-			(at 0 2.54 0)
+			(at 0 2.794 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3100a635-e230-4f00-8627-6e5c1f49f88b")
@@ -3594,7 +3605,7 @@
 		(sheetfile "Gate_Driver.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.54 0)
+			(at 0 2.794 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "f5525be5-2f4a-489e-b18f-2697c00478aa")
@@ -3607,8 +3618,8 @@
 		)
 		(pad "1" thru_hole roundrect
 			(at -2.8 0)
-			(size 5 2.5)
-			(drill oval 3.5 1.66)
+			(size 5 3.5)
+			(drill oval 3.5 2.19)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15)
@@ -3616,12 +3627,12 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4c3fcfd8-b415-459f-9a8e-d8a598a522a5")
+			(uuid "b75a32ca-aed0-4066-994c-5b5efd6daf2b")
 		)
 		(pad "1" thru_hole roundrect
 			(at 2.8 0)
-			(size 5 2.5)
-			(drill oval 3.5 1.66)
+			(size 5 3.5)
+			(drill oval 3.5 2.19)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15)
@@ -3632,6 +3643,17 @@
 			(uuid "b75a32ca-aed0-4066-994c-5b5efd6daf2b")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Custom-Connector.stp"
+			(offset
+				(xyz -24.38 5.05 -24)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "SamacSys_Parts:3362X1100LF"
 		(layer "F.Cu")
@@ -6365,7 +6387,7 @@
 		(uuid "c9c4c01a-ea36-479c-9b59-4a348dc277af")
 		(at 187.321102 97.79)
 		(property "Reference" "C2E1"
-			(at 0 2.54 0)
+			(at 0 2.794 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "86978960-df2d-4d94-96b7-e61b9aad166d")
@@ -6420,7 +6442,7 @@
 		(sheetfile "Gate_Driver.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 0)
+			(at 0 2.794 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "355258d3-8e6a-4c97-8104-a58ae81d58a5")
@@ -6433,8 +6455,8 @@
 		)
 		(pad "1" thru_hole roundrect
 			(at -2.8 0)
-			(size 5 2.5)
-			(drill oval 3.5 1.66)
+			(size 5 3.5)
+			(drill oval 3.5 2.19)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15)
@@ -6442,12 +6464,12 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "1024aa8b-2607-4d52-b416-9956eae26b67")
+			(uuid "9c69d387-c63c-4069-a5a6-6d2d710a369e")
 		)
 		(pad "1" thru_hole roundrect
 			(at 2.8 0)
-			(size 5 2.5)
-			(drill oval 3.5 1.66)
+			(size 5 3.5)
+			(drill oval 3.5 2.19)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15)
@@ -6458,6 +6480,17 @@
 			(uuid "9c69d387-c63c-4069-a5a6-6d2d710a369e")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Custom-Connector.stp"
+			(offset
+				(xyz -24.38 5.05 -24)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
@@ -8649,7 +8682,7 @@
 	(segment
 		(start 135.778898 97.79)
 		(end 141.378898 97.79)
-		(width 2.5)
+		(width 3.5)
 		(layer "F.Cu")
 		(net 9)
 		(uuid "ef3aa5f7-1588-4fe8-a07c-156856163073")
@@ -8673,7 +8706,7 @@
 	(segment
 		(start 141.378898 97.79)
 		(end 135.778898 97.79)
-		(width 2.5)
+		(width 3.5)
 		(layer "B.Cu")
 		(net 9)
 		(uuid "c6d41a63-2e56-48ba-8782-6c3e8670fcf4")
@@ -8729,7 +8762,7 @@
 	(segment
 		(start 190.121102 97.79)
 		(end 184.521102 97.79)
-		(width 2.5)
+		(width 3.5)
 		(layer "F.Cu")
 		(net 11)
 		(uuid "48d67150-7ea1-4fa5-8407-737d56383c1f")
@@ -8825,7 +8858,7 @@
 	(segment
 		(start 190.121102 97.79)
 		(end 184.521102 97.79)
-		(width 2.5)
+		(width 3.5)
 		(layer "B.Cu")
 		(net 11)
 		(uuid "fb3681bf-61d8-478b-bd97-d28f78c00b92")
@@ -8865,7 +8898,7 @@
 	(segment
 		(start 160.15 97.79)
 		(end 165.75 97.79)
-		(width 2.5)
+		(width 3.5)
 		(layer "F.Cu")
 		(net 13)
 		(uuid "594b6803-415b-4e40-abf6-5cb0baffd45c")
@@ -8881,7 +8914,7 @@
 	(segment
 		(start 165.75 97.79)
 		(end 160.15 97.79)
-		(width 2.5)
+		(width 3.5)
 		(layer "B.Cu")
 		(net 13)
 		(uuid "55de3535-533e-4e12-a627-1f4e208fe4d2")
