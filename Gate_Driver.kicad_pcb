@@ -1991,7 +1991,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "58b9f6d1-8fc6-43bc-9194-dd9dc780b394")
+			(uuid "cc5ed853-15cf-45e8-acad-1b4ed10bf217")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Custom-Connector.stp"
@@ -3679,7 +3679,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "b75a32ca-aed0-4066-994c-5b5efd6daf2b")
+			(uuid "f64722ad-127f-434f-b5ed-583aff65c9ab")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Custom-Connector.stp"
@@ -6553,7 +6553,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9c69d387-c63c-4069-a5a6-6d2d710a369e")
+			(uuid "483fffcd-c30e-462c-8926-cf8517c422a1")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Custom-Connector.stp"
